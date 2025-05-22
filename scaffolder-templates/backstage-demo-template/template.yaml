@@ -75,7 +75,7 @@ spec:
       name: Register
       action: catalog:register
       input:
-        repoContentsUrl: https://github.com/TheCodeCartel/yadp
+        repoContentsUrl: https://github.com/TheCodeCartel/yadp/tree/main
         catalogInfoPath: '/catalog-info.yaml'
 
   # some outputs which are saved along with the job for use in the frontend
